@@ -11,11 +11,7 @@
 
 ### Docker Deploy
 
-**Production** 
-*https://api.easynvest.com.br/witsec/health*
 
-**Homolog** 
-*http://apis-internal.hom.easynvest.io/witsec/health*
 
 
 ### Api Documentation (Swagger)
