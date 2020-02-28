@@ -16,7 +16,7 @@
 
 ### Api Documentation (Swagger)
 
-*https://api.easynvest.com.br/witsec/swagger*
+*{your-uri}/swagger*
 
 
 
